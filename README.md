@@ -1,6 +1,7 @@
 Requirements: Code editor with Apache 2.4, PHP 7.3, MariaDB 10.3. (LAMP STACK)
 
 How to run this project:
+<br>
 0. Clone this project to your local system
 1. Set up the necessary database  connection data, DataBaseManager file located in the core\Database folder
 2. Then input your mailing credentials inside mailer.php located in the main directory
