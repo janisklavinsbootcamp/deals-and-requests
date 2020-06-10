@@ -9,5 +9,4 @@ How to run this project:
 5. /  - route is used to make deal requests, /status - route let's you input Deal ID, change the status.
 
 
-Database structure:
 ![GitHub Logo](images/image1.jpg)
