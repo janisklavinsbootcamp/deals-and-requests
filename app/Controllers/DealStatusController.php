@@ -30,7 +30,7 @@ class DealStatusController
             'deals',
             ['[><]applications' => ['application_id' => 'id']],
             ['applications.email'],
-            ['deals.id ' => 32]
+            ['deals.id ' => $dealId]
         );
 
 //        $mailPartnerA = new Email();
